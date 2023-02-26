@@ -10,7 +10,7 @@ Requires [Python 3.6+](https://pypi.org/project/json-server.py/), [FastApi](http
 
 To clone this repository, run:
 ``` bash
-$ git clone 
+$ git clone git@github.com:josantosc/db-fake.git
 ```
 ## Create virtual environment
 
