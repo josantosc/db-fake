@@ -1,6 +1,6 @@
 fake_centro_custo = {
         "Success": True,
-        "Data": {
+        "Data": [{
             "SequenciadoProcesso": 0,
             "InterfacedoCentroCusto": [
                 {
@@ -38,7 +38,8 @@ fake_centro_custo = {
                     "InterfaceErrodoCentroCusto": []
                 }
             ]
-        },
+        }
+        ],
 
         "Messages": []
 
